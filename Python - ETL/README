@@ -1,0 +1,11 @@
+Tabela a ser tratada é referente a dados de marketing digital onde os canais digitais são utilizados por marcas para promover os seus produtos ou conteúdos institucionais.
+
+Descrição das colunas da base
+COLUNA VEICULO = Canais de marketing digital.
+COLUNA CATEGORIA = Indica o foco da campanha -  Institucional = Promoção da marca - Produto = Divugação do produto
+COLUNA DATA = Data da ocorrencia
+COLUNA INVESTIMENTO = Valor Investido em reais.
+COLUNA LEADS = Quantidade de pessoas que interagiram ou demonstração interesses
+COLUNA SESSOES = Quantidade de vezes que o web site foi acessado
+COLUNA IMPRESSOES = Quantidade de vezes que o anuncio foi exibido
+COLUNA CPL = Custo por LEADS.
